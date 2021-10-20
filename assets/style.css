@@ -103,6 +103,11 @@ h6 {
 	  background-position: 50% 50%;
   }
 
+button {
+  position: relative;
+  overflow: hidden;
+}
+
 span.ripple {
   position: absolute;
   border-radius: 50%;
