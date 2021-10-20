@@ -86,6 +86,11 @@ h6 {
 	  border-radius:190px;
   }
 
+@font-face {
+    font-family: myFont;
+    src: url('font/monita.otf');
+}
+
   .linktree {
 	  width: 120px;
 	  height: 120px;
