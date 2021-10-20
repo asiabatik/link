@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
 body {
 	width: 100wh;
 	height: 90vh;
@@ -7,6 +9,7 @@ body {
 	-webkit-animation: Gradient 15s ease infinite;
 	-moz-animation: Gradient 15s ease infinite;
 	animation: Gradient 15s ease infinite;
+	font-family: 'Open Sans', sans-serif;
 }
 
 @-webkit-keyframes Gradient {
